@@ -1,6 +1,6 @@
 # Molecular Generation
 ## Survey
-- <a name="todo"></a> Recent Advances of Multimodal Continual Learning: A Comprehensive Survey (**arXiv 2024**)  [[paper](https://arxiv.org/pdf/2410.05352)]
+- <a name="todo"></a> A survey of generative AI for de novo drug design: new frontiers in molecule and protein generation (**Briefings in Bioinformatics 2024**)  [[paper](https://openreview.net/forum?id=lUD54uNG73)]
 ## Papers
 
 ### 2024
