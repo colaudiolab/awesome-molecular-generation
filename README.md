@@ -1,4 +1,4 @@
-# Awesome Incremental Learning / Lifelong learning
+# Molecular Generation
 ## Survey
 - <a name="todo"></a> Recent Advances of Multimodal Continual Learning: A Comprehensive Survey (**arXiv 2024**)  [[paper](https://arxiv.org/pdf/2410.05352)]
 ## Papers
@@ -36,7 +36,7 @@
 ## [Awesome Long-Tailed Recognition / Imbalanced Learning](https://github.com/xialeiliu/Awesome-LongTailed-Recognition)
 #### Find it interesting that there are more shared techniques than I thought for incremental learning (exemplars-based). 
 
-## ContinualAI wiki
+## Datasets
 #### [An Open Community of Researchers and Enthusiasts on Continual/Lifelong Learning for AI](https://www.continualai.org/)
 
 ## Workshops
