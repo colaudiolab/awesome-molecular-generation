@@ -11,7 +11,8 @@
 
 ### 2022
 - <a name="todo"></a> Online Continual Learning through Mutual Information Maximization (**ICML2022**)[[paper](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)] 
-
+- <a name="todo"></a> Equivariant Diffusion for Molecule Generation in 3D (**PMLR2022**)[[paper](https://arxiv.org/pdf/2203.17003)]
+- <a name="todo"></a> MolGPT:MolecularGenerationUsingaTransformer-DecoderModel (**JCIM2022**)[[paper](https://pubs.acs.org/doi/epdf/10.1021/acs.jcim.1c00600?ref=article_openPDF)][[code](https://github.com/devalab/molgpt)]
 ### 2021
 - <a name="todo"></a> SpikeDyn: A Framework for Energy-Efficient Spiking Neural Networks with Continual and Unsupervised Learning Capabilities in Dynamic Environments (**DAC2021**) [[paper](https://doi.org/10.1109/DAC18074.2021.9586281)]
 
