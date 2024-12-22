@@ -34,8 +34,14 @@
 - <a name="todo"></a> MolGPT:MolecularGenerationUsingaTransformer-DecoderModel (**JCIM2022**)[[paper](https://pubs.acs.org/doi/epdf/10.1021/acs.jcim.1c00600?ref=article_openPDF)][[code](https://github.com/devalab/molgpt)]
 - 
 ### 2021
-- <a name="todo"></a> SpikeDyn: A Framework for Energy-Efficient Spiking Neural Networks with Continual and Unsupervised Learning Capabilities in Dynamic Environments (**DAC2021**) [[paper](https://doi.org/10.1109/DAC18074.2021.9586281)]
-
+- <a name="todo"></a> Learning Neural Generative Dynamics for Molecular Conformation Generation (**ICLR2021**)[[paper](https://iclr.cc/virtual/2021/poster/2628)][[code](https://github.com/DeepGraphLearning/CGCF-ConfGen)]
+- <a name="todo"></a> Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning (**Nat. Mach. Intell 2021**)[[paper](https://www.nature.com/articles/s42256-021-00403-1)][[code](https://github.com/jkwang93/MCMG)]
+- <a name="todo"></a>Controlled molecule generator for optimizing multiple chemical properties(**Nat. Mach. Intell 2021**)[[paper](https://pubs.acs.org/doi/epdf/10.1021/acs.jcim.1c00600?ref=article_openPDF)][[code](https://github.com/deargen/cmg?utm_source=catalyzex.com)]
+- <a name="todo"></a> Masked graph modeling for molecule generation (**Nat. Commun 2021**)[[paper](https://www.nature.com/articles/s41467-021-23415-2)][[code](https://github.com/BenevolentAI/guacamol_baselines)]
+- <a name="todo"></a> Graph Polish: A Novel Graph Generation Paradigm for Molecular Optimization (**TNNLS 2021**)[[paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
+- <a name="todo"></a> A deep generative model for molecule optimization via one fragment modification (**Nat. Mach. Intell 2021**)[[paper](https://www.nature.com/articles/s42256-021-00410-2)][[code](https://github.com/DeepGraphLearning/ConfGF?tab=readme-ov-file)]
+- <a name="todo"></a> Learning Gradient Fields for Molecular Conformation Generation (**ICML 2021**)[[paper](https://proceedings.mlr.press/v139/shi21b.html)][[code](https://github.com/BenevolentAI/guacamol_baselines)]
+- <a name="todo"></a> GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles (**NeurIPS 2021**)[[paper](https://proceedings.neurips.cc/paper/2021/hash/725215ed82ab6306919b485b81ff9615-Abstract.html)][[code](https://github.com/PattanaikL/GeoMol?utm_source=catalyzex.com)]
 ### 2020
 - <a name="todo"></a> Rethinking Experience Replay: a Bag of Tricks for Continual Learning(**ICPR, 2020**) [[paper](https://arxiv.org/abs/2010.05595)] [[code](https://github.com/hastings24/rethinking_er)]
 
